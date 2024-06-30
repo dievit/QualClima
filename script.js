@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 });
 
-const apiKey = '8984f488a8a933f8802dedad2780b967';
+const apiKey = 'YOUR_API_HERE';
 
 
 const weatherDescriptions = {
